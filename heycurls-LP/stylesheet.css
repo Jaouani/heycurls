@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-Bold.woff2') format('woff2'),
+        url('Brown-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
